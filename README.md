@@ -1,7 +1,5 @@
 # login_signup_ui
-
-A new Flutter project.
-
+beautiful login and register page using dart language 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
