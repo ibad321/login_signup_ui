@@ -1,7 +1,11 @@
 # login_signup_ui
 beautiful login and register page using dart language 
 
--b1d1-1a02979afac6.png)
+
+![Screenshot_1635005140](https://user-images.githubusercontent.com/76655046/138564030-c220ff6b-1630-4be8-a5ff-fcfe55446dbe.png)
+
+![Screenshot_1635005158](https://user-images.githubusercontent.com/76655046/138564135-17020dce-b904-4183-bacd-ecbce231aa65.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
